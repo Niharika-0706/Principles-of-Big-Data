@@ -1,2 +1,2 @@
-# Principles-of-Big-Data
-Twitter Data Analysis
+# Principles_of_bigdata
+Twitter_Analysis_Project 
